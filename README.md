@@ -6,7 +6,7 @@
  This project is about automating workflows by use of bots to automate once triggered.
 
 ## Live URL
-** The link to the project's repo is 
+The link to the project's repo is https://github.com/ProLink7544/RPA.git
 
 ## Technologies Used
  UiPath Studio 
