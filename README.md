@@ -14,7 +14,7 @@ The link to the project's repo is https://github.com/ProLink7544/RPA.git
  MS Excel 
 
 ## Contact Information 
-You can reach me via email 0723 557 33-
+You can reach me via email prolink7544@gmail.com
 
 ## Licence/Copyright
 For licence/copyright information check on the Licence file.
