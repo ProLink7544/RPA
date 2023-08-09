@@ -1,9 +1,6 @@
 ## Creation of folders
 Requests Folder To accommodate the spreadsheet containing the data to process.
 
-## Processed Folder
-To accommodate the processed spreadsheets.
-
 ## There are 3 types of xaml files used to create automation, these are as follows;
 Main.xaml This is the main workflow which will invoke other workflows and orchestrate the automation.
 
